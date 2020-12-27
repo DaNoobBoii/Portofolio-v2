@@ -213,7 +213,7 @@ html {
     }
     .about .text {
         width: 80%;
-        text-align: justify;
+        text-align: left;
     }
 }
 /* about */
